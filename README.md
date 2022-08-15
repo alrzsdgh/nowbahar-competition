@@ -59,3 +59,5 @@ We have a database of black and white photos of hands showing the numbers 0 to 5
 ## Question 7: Spam email detection
 
 There is a database of spam and non-spam emails. By checking these emails, design a model that detects new emails as spam or not.
+
+***I used the word embedding method and extract the 1000 most used words as input features. By using a Random Forest model on these features of every email, the final score was 148 out of 150.***
