@@ -20,6 +20,8 @@ IV) How many students have more than 10 absences, yet their study time is the mo
 
 Following the previous question, we want to predict students' exam scores. Prepare a model that predicts students' grades with the information provided in the dataset.
 
+** I used a Random Forest model that achieves a score of 108 out of 150 on test data **
+
 
 ## Question 3: Analysis of movie information
 
