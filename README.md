@@ -38,7 +38,7 @@ III) In this dataset, what is the highest number of marks given by users?
 
 In continuation of the previous question and by analyzing the dataset, design a model that predicts the user's rating for that movie by seeing new comments.
 
-***I used a simple DNN model that achieves a score of 82 out of 150 on test data***
+***I used a word embedding method with a simple DNN model that achieves a score of 82 out of 150 on test data***
 
 
 ## Question 5: Food classification
