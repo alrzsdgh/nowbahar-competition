@@ -54,6 +54,7 @@ you are required to train a model in order to classify the foods accurately.
 
 We have a database of black and white photos of hands showing the numbers 0 to 5 with their fingers. You are asked to prepare a model that predicts the number shown in the photo by taking similar photos.
 
+***I designed a deep convolutional neural network with 15 layers that achieves a score of 150 out of 150 on test data***
 
 ## Question 7: Spam email detection
 
