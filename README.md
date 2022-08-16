@@ -47,7 +47,7 @@ you are required to train a model in order to classify the foods accurately.
 
 ***I implemented the transfer learning method for this question. The efficientNetV2B3 model trained on the ImageNet dataset was used as the basic model. The final model achieved a score of 136 out of 150 on test data***
 
-***The dataset of this question can be fined [here](www.github.com)***
+***The dataset of this question can be fined [here](https://www.dropbox.com/s/206jgywtz6s0irn/Q5%20dataset.zip?dl=0)***
 
 
 ## Question 6: number of fingers
